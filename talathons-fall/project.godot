@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Neues Spiel"
+config/name="Talathons Fall"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
